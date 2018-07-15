@@ -47,6 +47,8 @@ e se você aprendeu alguma coisa com este repositório.
    "Acabei de aprender a usar o git e serei o maior hokage de todos os tempos, tô certo!"
 3. [@wesleylimadasilva](https://github.com/wesleylimadasilva)
    "Estou aprendendo Git com o Flávio....bora programar agora"
-4. [@seu-nick-github](https://github.com/seu-link)
+4. [@jtech-devj](https://github.com/jtech-devj)
+   "Venha pro lado negro da força, enquanto você lê esse comentário, uma galaxia está sendo criada"
+5. [@seu-nick-github](https://github.com/seu-link)
    "Colocar um comentário"
-teste
+
