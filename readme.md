@@ -48,7 +48,7 @@ e se você aprendeu alguma coisa com este repositório.
 3. [@wesleylimadasilva](https://github.com/wesleylimadasilva)
    "Estou aprendendo Git com o Flávio....bora programar agora"
 4. [@jtech-devj](https://github.com/jtech-devj)
-   "Venha pro lado negro da força, enquanto você lê esse comentário, uma galaxia "está sendo criada"!"
+   "Venha pro lado negro da força, enquanto você lê esse comentário, uma galáxia "está sendo criada" !"
 5. [@seu-nick-github](https://github.com/seu-link)
    "Colocar um comentário"
 
